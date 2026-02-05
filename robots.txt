@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# 告诉 Google 你的地图在哪里 (这对新站至关重要)
+Sitemap: https://video-6k5.pages.dev/sitemap.xml
